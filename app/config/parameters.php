@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '3306',
+    'database_name' => 'bitnami_prestashop',
+    'database_user' => 'bn_prestashop',
+    'database_password' => '8d1f7895f9f98eae77e3583757edff6aebb7d93644c37fc58f8c97b1d8642e21',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'Mhy5DEBcDqHu5qxaVtfvQRSh2RBIVcuZvwv7NUZZwrFIqTFKq5tKWmWNoOR9t6c8',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-05-18',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'nuUxCLWZ3y0HgWeTdWT0tFCFzH6GnsGuaGKZQyyq55HI6wGkDSCTD4CRYkizeR33',
+    'cookie_iv' => 's2mtphEFjZR0ZtQawUOSmxaTVRAe17oq',
+    'new_cookie_key' => 'def00000d14c00261cd6c3bd36f405f6714810be4652162592abceaa59e0ec8416839335aec88534661326350895ae66172781513886d2f1cb6cfbdcb2dcbb68ca6381b6',
+  ),
+);
