@@ -1,0 +1,6 @@
+*ERROR* 	v1.7.7.4	2021/07/17 - 11:48:18: La longitud del campo Address-&gt;address2 es actualmente de 51 caracteres. Debe tener entre 0 y 50 caracteres. at line 1045 in file classes/ObjectModel.php
+*ERROR* 	v1.7.7.4	2021/07/17 - 11:48:22: La longitud del campo Address-&gt;address2 es actualmente de 51 caracteres. Debe tener entre 0 y 50 caracteres. at line 1045 in file classes/ObjectModel.php
+*ERROR* 	v1.7.7.4	2021/07/17 - 11:48:30: La longitud del campo Address-&gt;address2 es actualmente de 51 caracteres. Debe tener entre 0 y 50 caracteres. at line 1045 in file classes/ObjectModel.php
+*ERROR* 	v1.7.7.4	2021/07/17 - 11:49:00: La longitud del campo Address-&gt;address2 es actualmente de 51 caracteres. Debe tener entre 0 y 50 caracteres. at line 1045 in file classes/ObjectModel.php
+*ERROR* 	v1.7.7.4	2021/07/17 - 11:49:24: La longitud del campo Address-&gt;address2 es actualmente de 51 caracteres. Debe tener entre 0 y 50 caracteres. at line 1045 in file classes/ObjectModel.php
+*ERROR* 	v1.7.7.4	2021/07/17 - 11:49:34: La longitud del campo Address-&gt;address2 es actualmente de 51 caracteres. Debe tener entre 0 y 50 caracteres. at line 1045 in file classes/ObjectModel.php
